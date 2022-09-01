@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160201481703",
+    "project_id": "reactnativefirebase-26795",
+    "storage_bucket": "reactnativefirebase-26795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160201481703:android:2ea72e275b761dd879b142",
+        "android_client_info": {
+          "package_name": "com.bookapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160201481703-s69gqfnh5punpemf5lrl934ojigpm4ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_4NvIUmng7Ymwp1ZLQWRRbJgQ0uM6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160201481703-s69gqfnh5punpemf5lrl934ojigpm4ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

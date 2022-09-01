@@ -10,5 +10,18 @@ export const dataApp = [
         titre:"Insta",
         nomApp:"AppInsta",
     },
+
+    {
+        id:3 , 
+        titre:"Tuto Flatlist",
+        nomApp:"AppTuto",
+    },
+    
+    {
+        id:4 , 
+        titre:"E-commerce",
+        nomApp:"AppEcommerce",
+    },
+    
     
 ]
